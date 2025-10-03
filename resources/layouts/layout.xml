@@ -1,0 +1,9 @@
+<layout id="MainLayout" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://developer.garmin.com/downloads/connect-iq/resources.xsd">
+    <label
+        id="id_metarLabel"
+        x="center"
+        y="center"
+        text=""
+        color="Gfx.COLOR_WHITE"
+        justification="Gfx.TEXT_JUSTIFY_CENTER|Gfx.TEXT_JUSTIFY_VCENTER" />
+</layout>
